@@ -19,19 +19,16 @@ import './App.css'
 // import Input from './components/Inputs'
 
 // import Tree from './components/Tree'
-// import Tree2 from './components/Tree2'
-// import Tree3 from './components/Tree3'
+
 // import Table from './components/Table'
-// import Table2 from './components/Table2'
-import Table5 from './components/Table5'
+
 export default class App extends Component {
   render() {
     return (
       <div>
-        <Table5 />
+        {/* <Table /> */}
 
-        {/* <Table /> <Table2 /> */}
-        {/* <Tree /> <Tree2 /> <Tree3 />*/}
+        {/* <Tree /> */}
 
 
         {/*
