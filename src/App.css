@@ -92,3 +92,18 @@
     border: 1px solid #ebedf0;
     border-radius: 2px;
   }
+.ant-btn {
+    margin-right: 8px;
+  }
+ .login-form {
+    max-width: 300px;
+  }
+   .login-form-forgot {
+    float: right;
+  }
+   .ant-col-rtl .login-form-forgot {
+    float: left;
+  }
+ .login-form-button {
+    width: 100%;
+  }

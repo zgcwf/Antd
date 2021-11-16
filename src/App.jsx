@@ -21,11 +21,14 @@ import './App.css'
 // import Tree from './components/Tree'
 
 // import Table from './components/Table'
+import Form5 from './components/Form5'
 
 export default class App extends Component {
   render() {
     return (
       <div>
+
+        <Form5 />
         {/* <Table /> */}
 
         {/* <Tree /> */}
